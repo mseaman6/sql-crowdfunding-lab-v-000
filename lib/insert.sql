@@ -40,3 +40,6 @@ INSERT INTO users (name, age) VALUES ("Jackson", 8);
 INSERT INTO users (name, age) VALUES ("Lilly", 5);
 INSERT INTO users (name, age) VALUES ("Max", 1);
 INSERT INTO users (name, age) VALUES ("Sloane", 1);
+
+
+INSERT INTO pledges (amount) VALUES ("");
