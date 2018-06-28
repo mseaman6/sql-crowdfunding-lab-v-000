@@ -13,7 +13,7 @@ VALUES ("F", "floor", 8000, "May 15, 2018", "June 30, 2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("G", "paint", 600, "July 1, 2018", "July 8, 2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
-VALUES ("H", "fixtures" 1000, "July 8, 2018", "July 15, 2018");
+VALUES ("H", "fixtures", 1000, "July 8, 2018", "July 15, 2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
 VALUES ("I", "furniture", 10000, "Dec. 15, 2018", "Dec. 31, 2018");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date)
