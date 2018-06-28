@@ -8,7 +8,7 @@ describe "crowdfunder sql" do
 
   describe "create.sql" do
     before do
-      @sql_runner.execute_create_sql
+      @db.execute_create_sql
     end
 
     it "creates a projects table with an id as a primary key" do
